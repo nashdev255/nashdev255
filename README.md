@@ -1,9 +1,8 @@
-markdown: kramdown
 ### This is nash's GitHub! Have fun!
 
 ### Links
 
-[Twitter](https://twitter.com/nash_4ed9){:target="_blank" rel="noopener"}
+[Twitter](https://twitter.com/nash_4ed9)
 
 [Youtube](https://www.youtube.com/channel/UCWnqwRNf5TyLCfvTPzvQnLA/featured)
 
