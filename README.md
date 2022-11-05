@@ -1,4 +1,4 @@
-### This is nash's GitHub! Have fun!!
+## This is nash's GitHub! Have fun!!
 
 <!--
 **yutori10/yutori10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
