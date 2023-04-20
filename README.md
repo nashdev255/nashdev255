@@ -10,5 +10,7 @@
 
 ### My works
 
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yutori10&theme=react&line_height=40&hide=css"/> </a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutori10&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutori10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
