@@ -4,7 +4,7 @@
 ## About Me
 
 - 🏫 I’m currently a student of informatics at NITSC.
-- 🌱 I’m currently learning diverse areas to enhance my knowledge.
+- 🌱 Following my own curiosity, acquiring knowledge.
 - 😄 Pronouns: Anything is ok.
 - ⚡ Fun fact: It seems a year has passed since I started programming!
 - ❓ About more: Ask [Twitter @nash_4ed9](https://twitter.com/nash_4ed9).
