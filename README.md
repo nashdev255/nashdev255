@@ -7,7 +7,7 @@
 - 🌱 Following my own curiosity, acquiring knowledge.
 - 😄 Pronouns: Anything is ok.
 - ⚡ Fun fact: It seems a year has passed since I started programming!
-- ❓ About more: Ask [Twitter @nash_4ed9](https://twitter.com/nash_4ed9).
+- ❓ About more: Ask [Twitter @nashdev255](https://twitter.com/nashdev255).
 
 ## Languages
 
