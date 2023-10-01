@@ -1,5 +1,5 @@
 # Greetings👋
-### I’m nash, a Japanese student interested in various areas.
+I’m nash, a Japanese student interested in various areas.
 
 ## About Me
 
@@ -12,6 +12,10 @@
 ## Languages
 
 - C/C++
+- Java
+- Rust
+- Go
 - HTML&CSS
 
+## Status
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nashdev255)](https://github.com/nashdev255)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashdev255&layout=compact)
