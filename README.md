@@ -13,6 +13,7 @@ I’m nash, a Japanese student interested in various areas.
 
 - C/C++
 - Java
+- C#
 - Rust
 - Go
 - HTML&CSS
