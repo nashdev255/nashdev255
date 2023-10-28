@@ -1,6 +1,8 @@
 # Greetings👋
 I’m nash, a Japanese student interested in various areas.
 
+<img src="https://counter.seku.su/cmoe?name=rvc&theme=r34" /><br>
+
 ## About Me
 
 - 🏫 I’m currently a student of informatics at NITSC.
