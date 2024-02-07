@@ -1,0 +1,33 @@
+name: annual-update
+
+on:
+  schedule:
+    - cron:  '0 15 6 4 *'
+
+jobs:
+  fun_fact:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+      - run: bundle install
+      - run: bundle exec rake
+
+      - name: Run Script
+        run:
+          ruby ./getNumberOfYearsPassed.rb > output.txt
+      
+      - name: Update README
+        run: |
+          NUMBER_OF_YEARS_PASSED=$(cat output.txt)
+          sed -i "/<!-- FUN_FACT_START -->/,/<!-- FUN_FACT_END -->/c\<!-- FUN_FACT_START -->${NUMBER_OF_YEARS_PASSED}<!-- FUN_FACT_END -->" README.md
+      
+      - name: Commit and Push if Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git diff --quiet && git diff --staged --quiet || (git commit -am "Update README with .png file count" && git push)
