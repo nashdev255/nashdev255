@@ -8,9 +8,10 @@ I’m nash, a Japanese student interested in various areas.
 - 🏫 I’m currently a student of informatics at NITSC.
 - 🌱 Following my own curiosity, acquiring knowledge.
 - 😄 Pronouns: Anything is ok.
-<!--- Counting since 2022/04/07 --->
 - ⚡ Fun fact: It seems a year has passed since I started programming!
 - ❓ About more: Ask [Twitter @nashdev255](https://twitter.com/nashdev255).
+
+<!--- Fun fact : counting since 2022/04/07... --->
 
 ## Languages
 
