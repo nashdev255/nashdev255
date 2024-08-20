@@ -1,7 +1,10 @@
 # Greetings👋
 I’m nash, a Japanese student interested in various areas.
 
+<!---
+削除されたカウンタ
 <img src="https://counter.seku.su/cmoe?name=rvc&theme=r34" /><br>
+--->
 
 ## About Me
 
