@@ -15,6 +15,7 @@ I’m nash, a Japanese student interested in various areas.
 - 🌱 Following my own curiosity, acquiring knowledge.
 - 😄 Pronouns: Anything is ok.
 - <!--- FUN_FACT_START --->⚡ Fun fact: It seems a year has passed since I started programming! <!--- FUN_FACT_END --->
+- 🎮 VRChat is my favorite game! Send nashdev255 a friend request then let's hung out with me!
 - ❓ About more: Ask [Twitter @nashdev255](https://twitter.com/nashdev255).
 
 <!--- Fun fact : counting since 2022/04/07... --->
