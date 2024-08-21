@@ -1,4 +1,5 @@
 # Greetings👋
+
 I’m nash, a Japanese student interested in various areas.
 
 ![Love Unknown Friend](LoveUnknownFriend.png)
@@ -21,7 +22,7 @@ I’m nash, a Japanese student interested in various areas.
 ## Languages
 
 - C/C++
-- Java
+- Java/Kotlin
 - C#
 - Rust
 - Go
@@ -29,4 +30,5 @@ I’m nash, a Japanese student interested in various areas.
 - JavaScript/TypeScript
 
 ## Status
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nashdev255)](https://github.com/nashdev255)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashdev255&layout=compact)
