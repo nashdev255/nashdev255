@@ -1,6 +1,8 @@
 # Greetings👋
 I’m nash, a Japanese student interested in various areas.
 
+[Love Unknown Friend](LoveUnknownFriend.png)
+
 <!---
 削除されたカウンタ
 <img src="https://counter.seku.su/cmoe?name=rvc&theme=r34" /><br>
