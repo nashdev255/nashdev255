@@ -20,6 +20,13 @@ I’m nash, a Japanese student interested in various areas.
 
 <!--- Fun fact : counting since 2022/04/07... --->
 
+## Works
+
+- イトキヨクエスト
+- StudySyncHub
+
+* In order to check restricted contents like R-18 contents, follow the link below.
+
 ## Languages
 
 - C/C++
