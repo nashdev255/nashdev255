@@ -25,7 +25,7 @@ I’m nash, a Japanese student interested in various areas.
 - イトキヨクエスト
 - StudySyncHub
 
-* In order to check restricted contents like R-18 contents, follow the link below.
+\* In order to check restricted contents like R-18 contents, follow the link below.
 
 ## Languages
 
