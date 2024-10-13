@@ -22,8 +22,17 @@ I’m nash, a Japanese student interested in various areas.
 
 ## Works
 
+### Games
+
+- Honey RPG
 - イトキヨクエスト
+
+### Other Applications
+
+- Honey OS
 - StudySyncHub
+
+### Tools
 
 \* In order to check restricted contents like R-18 contents, follow the link below.
 
