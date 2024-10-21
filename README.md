@@ -2,7 +2,7 @@
 
 I’m nash, a Japanese student interested in various areas.
 
-![Love Unknown Friend](LoveUnknownFriend.png)
+![Love Unknown Friend](LoveStrangerFriend.png)
 
 <!---
 削除されたカウンタ
